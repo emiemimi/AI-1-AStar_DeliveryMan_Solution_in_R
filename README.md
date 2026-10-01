@@ -1,1 +1,1 @@
-# AI-1-AStar_DeliveryMan_Solution_in_R
+Implementation of the A* algorithm to solve the DeliveryMan game from the DeliveryMan R package provided by Uppsala University
